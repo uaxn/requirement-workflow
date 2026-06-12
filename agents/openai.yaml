@@ -1,0 +1,7 @@
+interface:
+  display_name: "Requirement Workflow"
+  short_description: "需求开发工作流"
+  default_prompt: "Use $requirement-workflow to start the requirement-development workflow for this project."
+
+policy:
+  allow_implicit_invocation: true
